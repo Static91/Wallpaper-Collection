@@ -1,3 +1,5 @@
+![MDkYD25.jpg](../Desktop%20Wallpapers/2001%20-%202642/MDkYD25.jpg)
+
 ![tumblr_oypjvnJYpN1qa0uc2o1_1280.jpg](../Desktop%20Wallpapers/2001%20-%202642/tumblr_oypjvnJYpN1qa0uc2o1_1280.jpg)
 
 ![m452i72ltfc21.jpg](../Desktop%20Wallpapers/2001%20-%202642/m452i72ltfc21.jpg)
@@ -45,6 +47,4 @@
 ![c2ylW8D.jpg](../Desktop%20Wallpapers/2001%20-%202642/c2ylW8D.jpg)
 
 ![v1txrl4bv7871.jpg](../Desktop%20Wallpapers/2001%20-%202642/v1txrl4bv7871.jpg)
-
-![chaosik wallpapers 1920x1080 (6469).jpg](../Desktop%20Wallpapers/2001%20-%202642/chaosik%20wallpapers%201920x1080%20(6469).jpg)
 

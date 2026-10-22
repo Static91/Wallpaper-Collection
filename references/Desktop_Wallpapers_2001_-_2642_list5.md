@@ -1,3 +1,5 @@
+![b7447dmmd2y51.png](../Desktop%20Wallpapers/2001%20-%202642/b7447dmmd2y51.png)
+
 ![thomas-kinto-gsQ6ma6hMfM-unsplash.jpg](../Desktop%20Wallpapers/2001%20-%202642/thomas-kinto-gsQ6ma6hMfM-unsplash.jpg)
 
 ![u712tb5i3gj81.jpg](../Desktop%20Wallpapers/2001%20-%202642/u712tb5i3gj81.jpg)
@@ -45,6 +47,4 @@
 ![chaosik wallpapers 1920x1080 (7564).jpg](../Desktop%20Wallpapers/2001%20-%202642/chaosik%20wallpapers%201920x1080%20(7564).jpg)
 
 ![YLVx8bi.jpg](../Desktop%20Wallpapers/2001%20-%202642/YLVx8bi.jpg)
-
-![MDkYD25.jpg](../Desktop%20Wallpapers/2001%20-%202642/MDkYD25.jpg)
 

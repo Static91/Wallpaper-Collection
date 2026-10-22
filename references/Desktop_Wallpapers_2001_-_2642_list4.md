@@ -1,5 +1,7 @@
 ![m9jcez8fo2z81.jpg](../Desktop%20Wallpapers/2001%20-%202642/m9jcez8fo2z81.jpg)
 
+![Thumbs.db](../Desktop%20Wallpapers/2001%20-%202642/Thumbs.db)
+
 ![r50eqlf54ho71.png](../Desktop%20Wallpapers/2001%20-%202642/r50eqlf54ho71.png)
 
 ![t7p3h4f.jpg](../Desktop%20Wallpapers/2001%20-%202642/t7p3h4f.jpg)
@@ -45,6 +47,4 @@
 ![qt6tjy8w5ws71.png](../Desktop%20Wallpapers/2001%20-%202642/qt6tjy8w5ws71.png)
 
 ![maksim-sislo-hF4QeHrE_8A-unsplash.jpg](../Desktop%20Wallpapers/2001%20-%202642/maksim-sislo-hF4QeHrE_8A-unsplash.jpg)
-
-![b7447dmmd2y51.png](../Desktop%20Wallpapers/2001%20-%202642/b7447dmmd2y51.png)
 

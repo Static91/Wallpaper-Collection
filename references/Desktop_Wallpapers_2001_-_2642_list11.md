@@ -1,3 +1,5 @@
+![zio7sjt6rjm81.jpg](../Desktop%20Wallpapers/2001%20-%202642/zio7sjt6rjm81.jpg)
+
 ![RkBqO5E.jpg](../Desktop%20Wallpapers/2001%20-%202642/RkBqO5E.jpg)
 
 ![oedj47nj5rl91.jpg](../Desktop%20Wallpapers/2001%20-%202642/oedj47nj5rl91.jpg)
@@ -45,6 +47,4 @@
 ![chaosik wallpapers 1920x1080 (2577).jpg](../Desktop%20Wallpapers/2001%20-%202642/chaosik%20wallpapers%201920x1080%20(2577).jpg)
 
 ![darklands.png](../Desktop%20Wallpapers/2001%20-%202642/darklands.png)
-
-![tumblr_p3frm0svwU1qa0uc2o1_1280.jpg](../Desktop%20Wallpapers/2001%20-%202642/tumblr_p3frm0svwU1qa0uc2o1_1280.jpg)
 

@@ -1,3 +1,5 @@
+![nv5umubfjpj91.jpg](../Desktop%20Wallpapers/2001%20-%202642/nv5umubfjpj91.jpg)
+
 ![horrorglitch04.jpg](../Desktop%20Wallpapers/2001%20-%202642/horrorglitch04.jpg)
 
 ![darksouls.png](../Desktop%20Wallpapers/2001%20-%202642/darksouls.png)
@@ -45,6 +47,4 @@
 ![wp32.png](../Desktop%20Wallpapers/2001%20-%202642/wp32.png)
 
 ![vn5sdxiyh1291.png](../Desktop%20Wallpapers/2001%20-%202642/vn5sdxiyh1291.png)
-
-![falling_apart.png](../Desktop%20Wallpapers/2001%20-%202642/falling_apart.png)
 

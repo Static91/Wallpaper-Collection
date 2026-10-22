@@ -1,3 +1,5 @@
+![jr-korpa-iMv3Q9OZWe4-unsplash.jpg](../Desktop%20Wallpapers/2001%20-%202642/jr-korpa-iMv3Q9OZWe4-unsplash.jpg)
+
 ![xtwjbeyel5381.png](../Desktop%20Wallpapers/2001%20-%202642/xtwjbeyel5381.png)
 
 ![Xu6rEcW.png](../Desktop%20Wallpapers/2001%20-%202642/Xu6rEcW.png)
@@ -45,6 +47,4 @@
 ![zkxvwhc.jpg](../Desktop%20Wallpapers/2001%20-%202642/zkxvwhc.jpg)
 
 ![ggUldTs.jpg](../Desktop%20Wallpapers/2001%20-%202642/ggUldTs.jpg)
-
-![chaosik wallpapers 1920x1080 (7671).jpg](../Desktop%20Wallpapers/2001%20-%202642/chaosik%20wallpapers%201920x1080%20(7671).jpg)
 

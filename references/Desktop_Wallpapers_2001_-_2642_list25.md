@@ -1,3 +1,5 @@
+![eventhorizon.png](../Desktop%20Wallpapers/2001%20-%202642/eventhorizon.png)
+
 ![Ma2Psbn.jpg](../Desktop%20Wallpapers/2001%20-%202642/Ma2Psbn.jpg)
 
 ![Strays-1536x1146.png](../Desktop%20Wallpapers/2001%20-%202642/Strays-1536x1146.png)
@@ -45,6 +47,4 @@
 ![chaosik wallpapers 1920x1080 (4898).jpg](../Desktop%20Wallpapers/2001%20-%202642/chaosik%20wallpapers%201920x1080%20(4898).jpg)
 
 ![gallerejuck81.jpg](../Desktop%20Wallpapers/2001%20-%202642/gallerejuck81.jpg)
-
-![hsEBTq7.jpg](../Desktop%20Wallpapers/2001%20-%202642/hsEBTq7.jpg)
 

@@ -1,14 +1,14 @@
 
-    ### Segregated into folders of 1000 files so that github actually loads the images all at once.
+### Segregated into folders of 1000 files so that github actually loads the images all at once.
 
 
-    * README preview pages generation command
-    ```sh
-    g++ indexer.cpp -o main
-    ./main
-    ```
+* README preview pages generation command
+```sh
+g++ indexer.cpp -o main
+./main
+```
 
-    ### Wallpaper Index
+### Wallpaper Index
 
 - [Stolen - Stolen_list1](references/Stolen_list1.md)
 
@@ -231,16 +231,6 @@
 - [Desktop Wallpapers/1001 - 2000 - Desktop_Wallpapers_1001_-_2000_list39](references/Desktop_Wallpapers_1001_-_2000_list39.md)
 
 - [Desktop Wallpapers/1001 - 2000 - Desktop_Wallpapers_1001_-_2000_list40](references/Desktop_Wallpapers_1001_-_2000_list40.md)
-
-- [references - references_list1](references/references_list1.md)
-
-- [references - references_list2](references/references_list2.md)
-
-- [references - references_list3](references/references_list3.md)
-
-- [references - references_list4](references/references_list4.md)
-
-- [references - references_list5](references/references_list5.md)
 
 - [Mobile Wallpapers/1 - 1000 - Mobile_Wallpapers_1_-_1000_list1](references/Mobile_Wallpapers_1_-_1000_list1.md)
 

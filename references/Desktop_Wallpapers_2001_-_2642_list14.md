@@ -1,3 +1,5 @@
+![QV9prD8.jpg](../Desktop%20Wallpapers/2001%20-%202642/QV9prD8.jpg)
+
 ![wolfgang-hasselmann-IahopPJyd6E-unsplash.jpg](../Desktop%20Wallpapers/2001%20-%202642/wolfgang-hasselmann-IahopPJyd6E-unsplash.jpg)
 
 ![ao16w67sh3k91.jpg](../Desktop%20Wallpapers/2001%20-%202642/ao16w67sh3k91.jpg)
@@ -45,6 +47,4 @@
 ![trdkk2g4z3271.jpg](../Desktop%20Wallpapers/2001%20-%202642/trdkk2g4z3271.jpg)
 
 ![swamp.png](../Desktop%20Wallpapers/2001%20-%202642/swamp.png)
-
-![chaosik wallpapers 1920x1080 (4756).jpg](../Desktop%20Wallpapers/2001%20-%202642/chaosik%20wallpapers%201920x1080%20(4756).jpg)
 

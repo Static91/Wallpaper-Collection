@@ -1,3 +1,5 @@
+![markus-spiske-vESdfYTHCUM-unsplash.jpg](../Desktop%20Wallpapers/2001%20-%202642/markus-spiske-vESdfYTHCUM-unsplash.jpg)
+
 ![qvPtdpG.jpg](../Desktop%20Wallpapers/2001%20-%202642/qvPtdpG.jpg)
 
 ![chaosik wallpapers 1920x1080 (229).png](../Desktop%20Wallpapers/2001%20-%202642/chaosik%20wallpapers%201920x1080%20(229).png)
@@ -45,6 +47,4 @@
 ![jr-korpa-tzQkuviIuHU-unsplash.jpg](../Desktop%20Wallpapers/2001%20-%202642/jr-korpa-tzQkuviIuHU-unsplash.jpg)
 
 ![a1hBpHn.jpg](../Desktop%20Wallpapers/2001%20-%202642/a1hBpHn.jpg)
-
-![oakt6g035j281.jpg](../Desktop%20Wallpapers/2001%20-%202642/oakt6g035j281.jpg)
 

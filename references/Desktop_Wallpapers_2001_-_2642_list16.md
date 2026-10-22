@@ -1,3 +1,5 @@
+![lsS3wxE.jpg](../Desktop%20Wallpapers/2001%20-%202642/lsS3wxE.jpg)
+
 ![faces.png](../Desktop%20Wallpapers/2001%20-%202642/faces.png)
 
 ![lRgUT4T.jpg](../Desktop%20Wallpapers/2001%20-%202642/lRgUT4T.jpg)
@@ -45,6 +47,4 @@
 ![mscopg9dxep81.jpg](../Desktop%20Wallpapers/2001%20-%202642/mscopg9dxep81.jpg)
 
 ![oxWUYxZ.jpg](../Desktop%20Wallpapers/2001%20-%202642/oxWUYxZ.jpg)
-
-![robot.png](../Desktop%20Wallpapers/2001%20-%202642/robot.png)
 

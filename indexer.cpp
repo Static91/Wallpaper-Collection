@@ -18,7 +18,7 @@ void fetch_all_paths() {
             it != fs::recursive_directory_iterator(); ++it) {
 
             if (it->is_directory()) {
-                if (it->path().filename() == ".git") {
+                if (it->path().filename() == ".git" || it->path().filename() == "references") {
                     it.disable_recursion_pending();
                     continue;
                 }
@@ -116,17 +116,18 @@ int main() {
 
     std::ofstream readme(fs::current_path() / "README.md");
     readme << R"(
-    ### Segregated into folders of 1000 files so that github actually loads the images all at once.
+### Segregated into folders of 1000 files so that github actually loads the images all at once.
 
 
-    * README preview pages generation command
-    ```sh
-    g++ indexer.cpp -o main
-    ./main
-    ```
+* README preview pages generation command
+```sh
+g++ indexer.cpp -o main
+./main
+```
 
-    )";
-    readme << "### Wallpaper Index\n\n";
+### Wallpaper Index
+
+)";
     readme.close();
 
     fetch_all_paths();

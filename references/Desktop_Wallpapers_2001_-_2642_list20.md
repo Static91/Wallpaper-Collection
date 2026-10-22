@@ -1,3 +1,5 @@
+![jp4m4myrsht61.jpg](../Desktop%20Wallpapers/2001%20-%202642/jp4m4myrsht61.jpg)
+
 ![chaosik wallpapers 1920x1080 (5095).jpg](../Desktop%20Wallpapers/2001%20-%202642/chaosik%20wallpapers%201920x1080%20(5095).jpg)
 
 ![XeiMMzA.png](../Desktop%20Wallpapers/2001%20-%202642/XeiMMzA.png)
@@ -45,6 +47,4 @@
 ![naq7d3dus3w71.jpg](../Desktop%20Wallpapers/2001%20-%202642/naq7d3dus3w71.jpg)
 
 ![Image20220910171235.png](../Desktop%20Wallpapers/2001%20-%202642/Image20220910171235.png)
-
-![nv5umubfjpj91.jpg](../Desktop%20Wallpapers/2001%20-%202642/nv5umubfjpj91.jpg)
 
