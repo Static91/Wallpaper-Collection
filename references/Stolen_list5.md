@@ -1,12 +1,10 @@
-![14 - ZVgK5.jpg](../Stolen/14%20-%20ZVgK5.jpg)
+![1604775971949.jpg](../Stolen/1604775971949.jpg)
 
-![2 - 2Y3HF.jpg](../Stolen/2%20-%202Y3HF.jpg)
+![1747342698686889.png](../Stolen/1747342698686889.png)
 
-![686p8bxm8twd1.png](../Stolen/686p8bxm8twd1.png)
+![keep your favorite application between this (1920X1080).jpg](../Stolen/keep%20your%20favorite%20application%20between%20this%20(1920X1080).jpg)
 
-![1747701799311196.png](../Stolen/1747701799311196.png)
+![10 - sdiAQ.jpg](../Stolen/10%20-%20sdiAQ.jpg)
 
-![storefront colorized.png](../Stolen/storefront%20colorized.png)
-
-![fK92HnB.jpg](../Stolen/fK92HnB.jpg)
+![oo8hu88g5pg61.png](../Stolen/oo8hu88g5pg61.png)
 
